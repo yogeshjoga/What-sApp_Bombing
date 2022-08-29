@@ -43,4 +43,5 @@
              just see it. that's it you can enjoy 
              a lot in this tool. 
              
-
+# if you want to run linux env
+   just run .sh file that's it....
