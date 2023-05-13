@@ -1,0 +1,5 @@
+Documentation
+- use unique names for every class
+- use meaningful method names
+- use as many times reuse the logic
+-
